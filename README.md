@@ -22,9 +22,9 @@ https://juliarina.itch.io/food-drop
 - Progressive difficulty system
 
 ## Screenshot
-<img width="1920" height="1080" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/23445391-b059-4d4e-91b9-cfc78ebca77d" />
-<img width="1920" height="1080" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/b494c1ee-d61b-4260-b180-6f228404e04f" />
-<img width="1920" height="1080" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/0a14f4b7-4348-4b03-a268-b2ad0abfda84" />
+<img width="1920" height="1080" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/23445391-b059-4d4e-91b9-cfc78ebca77d" /><br>
+<img width="1920" height="1080" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/b494c1ee-d61b-4260-b180-6f228404e04f" /><br>
+<img width="1920" height="1080" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/0a14f4b7-4348-4b03-a268-b2ad0abfda84" /><br>
 
 ## Game Teaser 
 [![Food Drop Game Teaser](https://img.youtube.com/vi/beW1wufL51A/0.jpg)](https://www.youtube.com/watch?v=beW1wufL51A)
